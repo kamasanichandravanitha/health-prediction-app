@@ -9,7 +9,7 @@ An AI-powered health prediction system with robust data validation.
 - **Email Validation:** Prevents duplicate entries
 
 ### 🛠️ Tech Stack
-- Python, Flask / Streamlit, SQLite, Custom AI API
+- Python, Flask / Streamlit, SQLite, AI API
 
 ### 🚀 How to Run
 git clone https://github.com/kamasanichandravanitha/health-prediction-app.git
